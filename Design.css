@@ -1,7 +1,7 @@
 
 @font-face {
 	font-family: droid;
-	src: url('https://cdn.rawgit.com/matheus-robbertto/Teste/35f7b8cf/DroidSerif-Regular.ttf');
+	src: url("https://cdn.rawgit.com/matheus-robbertto/Teste/35f7b8cf/DroidSerif-Regular.ttf");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -56,7 +56,7 @@ body{
 }
 
 .Bg {
-	background-image: url("https://lh4.googleusercontent.com/0l_jHApU8MhByAEuNWUuLtZ9TcpU8fmQE7SE9Ol3nJsgivF3ChYLiK1bhpTH6SyMTCwjf5oSPgZNDw=w1366-h662");
+	background-image: url("https://cdn.rawgit.com/matheus-robbertto/imagens/a29596c4/background.gif");
 	margin: 0;
 	padding: 0;
 	border: 0;
